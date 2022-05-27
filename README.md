@@ -2,6 +2,6 @@
 
 Simon game made by Fırat Koçoğlu.
 
-HTML, CSS and JavaScript are used to build the game.
+HTML, CSS, JavaScript and jQuery library are used to build the game.
 
 The player should follow the correct random color pattern on each level.
